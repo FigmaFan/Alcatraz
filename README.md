@@ -24,7 +24,7 @@ Install: https://vcpkg.io/en/getting-started.html
 `Zydis`: vcpkg.exe install zydis:x64-windows
 
 # Usage
-![imgbefore](images/gui.PNG)
+![imgbefore](images/new_gui.png)
 1.) Load a binary by clicking `file` in the top left corner.  
 2.) Add functions by expanding the `Functions` tree. (You can search by putting in the name in the searchbar at the top)  
 3.) Hit `compile` (note: obfuscating lots of functions might take some seconds)  
