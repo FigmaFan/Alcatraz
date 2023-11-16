@@ -1,8 +1,6 @@
 #pragma once
 
-namespace gui {
-	
-	
-
+namespace gui
+{
 	void render_interface();
 }
