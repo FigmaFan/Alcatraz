@@ -25,9 +25,9 @@ Install: https://vcpkg.io/en/getting-started.html
 
 # Usage
 ![imgbefore](images/new_gui.png)
-1.) Load a binary by clicking `file` in the top left corner.  
-2.) Add functions by expanding the `Functions` tree. (You can search by putting in the name in the searchbar at the top)  
-3.) Hit `compile` (note: obfuscating lots of functions might take some seconds)  
+1.) Load a binary by clicking `Select File...` in the first window.  
+2.) Add functions by expanding the `Functions` tree. (You can search by putting in the name in the searchbar at the bottom (to-do!))  
+3.) Hit `compile` (note: obfuscating lots of functions might take some time depending on your system specification)  
 # Features
 In the following showcase all features (besides the one being showcased) are disabled.
 ### Obfuscation of immediate moves
